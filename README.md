@@ -20,4 +20,4 @@ PS. If an article is behind a paywall like this one, here:
 		archive.is/https://medium.com/write-a-catalyst/deepseek-just-confirmed-my-suspicions-about-openai-d74edd89dcb5
 _________________________________________________________________________________________________________________________________
 
-### *Embrace the journey of Honours. It's worth the toil in the end!*
+### *Embrace the journey of learning. It's worth the toil in the end!*
