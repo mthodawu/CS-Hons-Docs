@@ -13,11 +13,11 @@ For most, if not all, of the courses, supplementary materials can easily be foun
 
 PS. If an article is behind a paywall like this one, here:
 
-    https://medium.com/write-a-catalyst/deepseek-just-confirmed-my-suspicions-about-openai-d74edd89dcb5
+	https://medium.com/write-a-catalyst/deepseek-just-confirmed-my-suspicions-about-openai-d74edd89dcb5
 
  type `archive.is/` followed by the URL in your browser's search bar to bypass the paywall.
 
-		archive.is/https://medium.com/write-a-catalyst/deepseek-just-confirmed-my-suspicions-about-openai-d74edd89dcb5
+	archive.is/https://medium.com/write-a-catalyst/deepseek-just-confirmed-my-suspicions-about-openai-d74edd89dcb5
 _________________________________________________________________________________________________________________________________
 
 ### *Embrace the journey of learning. It's worth the toil in the end!*
