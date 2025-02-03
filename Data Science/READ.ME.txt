@@ -1,0 +1,11 @@
+The Jupyter Notebook files ch0, ch1, ch2, ch3 are the chapters of the course. 
+
+Read in them in that order.
+
+Practise writing the code often, without internet help.
+
+You will be have to write that code from scratch in the exam.
+
+All the very best!
+
+~ M.S 2024
